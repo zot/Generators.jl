@@ -1,0 +1,9 @@
+site_name:        Generators.jl
+repo_url:         https://github.com/zot/Generator.jl
+site_description: Generator Docs
+site_author:      Bill Burdick
+
+theme: material
+
+extra_css:
+  - assets/Documenter.css
