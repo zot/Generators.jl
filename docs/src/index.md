@@ -5,5 +5,5 @@ Very lightweight, task-based generators.
 # Generators.jl Documentation
 
 ```@docs
-generate(func::Function)
+maluba - generate(func::Function)
 ```
